@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SebWatt/npm-practice/issues"
   },
-  "homepage": "https://github.com/SebWatt/npm-practice#readme"
+  "homepage": "https://github.com/SebWatt/npm-practice#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
 }
