@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/SebWatt/npm-practice#readme",
   "dependencies": {
-    "dayjs": "^1.11.7"
+    "dayjs": "^1.11.7",
+    "pluralize": "^8.0.0",
+    "pluralize-js": "^8.0.1"
   }
 }
